@@ -49,7 +49,7 @@ Exécutez les cellules pas à pas pour entraîner les modèles et analyser leurs
 
 ---
 
-###📊 Résultats Principaux
+### 📊 Résultats Principaux
 
 1. 🏆 Le modèle VGG16 a obtenu les meilleures performances avec une précision de 96,18% et un AUC de 98,92%.
 ![image](https://github.com/user-attachments/assets/a75ab411-9928-4524-86d0-49196214e9b9)
@@ -66,14 +66,14 @@ Exécutez les cellules pas à pas pour entraîner les modèles et analyser leurs
 
 ---
 
-###📜 Remerciements
+### 📜 Remerciements
 
 - Les données proviennent du site officiel des National Institutes of Health (NIH) : https://ceb.nlm.nih.gov/repositories/malaria-datasets/.
 - Merci à monsieur Hakim Horairy pour le soutien et l'expertise apportée au cours de la réalisation de ce projet.
 
 ---
 
-###📝 Auteurs
+### 📝 Auteurs
  - **Melchissedeck AFOUDAH**
  - **Mehdi BEN CHEIKH** 
  - **Théo CHANNAROND**
