@@ -57,9 +57,12 @@ Exécutez les cellules pas à pas pour entraîner les modèles et analyser leurs
 
 2. Le modèle from_scratch a obtenu une précision de 96,01% et un AUC de 98,79%.
 ![image](https://github.com/user-attachments/assets/27db20f7-726f-4184-81ac-a170571788da)
+![image](https://github.com/user-attachments/assets/6ae2c96f-632a-43f4-ad33-5101e8524a7a)
 
-3. Le modèle ResNet50 a obtenu une précision de 85,20% et un AUC de 92,38%.
+
+4. Le modèle ResNet50 a obtenu une précision de 85,20% et un AUC de 92,38%.
 ![image](https://github.com/user-attachments/assets/57137ac2-7050-4570-8c86-17ee28d219c2)
+![image](https://github.com/user-attachments/assets/0cfa9f2d-6124-465b-b16e-0f8b29e94768)
 
 ---
 
